@@ -1,0 +1,7 @@
+#~/bin/bash
+
+
+echo "this is my new code for git!"
+
+
+echo "git shabbes"
